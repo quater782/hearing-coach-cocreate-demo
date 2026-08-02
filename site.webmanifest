@@ -1,0 +1,21 @@
+{
+  "name": "验配师培训共创 Demo",
+  "short_name": "验配共创",
+  "description": "客户画像与训练剧本 AI 共创交互演示",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f8fc",
+  "theme_color": "#1f6dff",
+  "icons": [
+    {
+      "src": "./hearing-cocreate-icon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
